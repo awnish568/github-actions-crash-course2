@@ -9,7 +9,7 @@ function App() {
         <p>
           {process.env.REACT_APP_WELCOME_TEXT || "Github Actions Tutorial"} - By
           DevOps Pro
-        </p>
+        </p> 
         <a
           className="App-link"
           href="https://youtube.com/@DevOpsPro"
